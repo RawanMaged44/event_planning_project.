@@ -1,6 +1,9 @@
-import 'package:event_planning_project/ui/home.dart';
+
+
 import 'package:event_planning_project/utils/app_theme.dart';
 import 'package:flutter/material.dart';
+
+import 'ui/home.dart';
 
 void main() {
   runApp(const MyApp());
